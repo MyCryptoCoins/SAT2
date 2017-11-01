@@ -1156,6 +1156,7 @@ void MapPort()
 static const char *strDNSSeed[][2] = {
       {"seed", "seed.saturn2coin.mycryptocoins.net"},
       {"seednodes", "seednodes.saturn2coin.mycryptocoins.net"},
+      {"sat2", "165.227.51.119"},
     {NULL, NULL}
 };
 
